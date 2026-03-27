@@ -42,7 +42,7 @@ Yanming Hui¹,², **Fanhua Shang¹,²\***, **Hongying Liu²,⁴\***, Ben Wang¹,
 
 ### ⚡ Quick Access
 - **Paper**: [Coming Soon]
-- **Code & Pre-trained Models**: This Repository
+- **Code & Pre-trained Models**: This Repository [Coming Soon]
 - **Dataset**: REDS/Vid4/UDM10 (low-light processed)
 
 ---
