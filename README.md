@@ -14,9 +14,9 @@
 ### 🎯 Core Highlight
 Address the pain points of **error accumulation, parameter redundancy and poor temporal consistency** in traditional cascaded/all-in-one methods for low-light video restoration. We propose a novel integrated learning scheme that jointly models illumination enhancement and spatial-temporal super-resolution, realizing synchronous decoupling of low-light and low-resolution degradations to recover **Well-Illuminated High-Resolution (WIHR)** video sequences from **Low-Light Low-Resolution (LLLR)** inputs.
 
-<div align="center">
+<!-- <div align="center">
 <img width="741" height="436" alt="image" src="https://github.com/user-attachments/assets/ab7df027-f30d-4097-b576-5bcdf1c9e190" />
-</div>
+</div> -->
 
 
 ### 📊 SOTA Results
