@@ -1,12 +1,11 @@
 # 🚀🚀🚀VSRELL-CVPR2026 The First CNN-Based Method for Joint Low-Light Enhancement and Video Super-Resolution
 🚀🚀🚀CVPR 2026 | The First CNN-Based Method for Joint Low-Light Enhancement and Video Super-Resolution
 
-<div align="center">
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-ff4081?style=for-the-badge)](https://cvpr.thecvf.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13+-orange?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![GitHub Stars](https://img.shields.io/github/stars/373hdj/VSRELL?style=for-the-badge&color=yellow)](https://github.com/373hdj/VSRELL)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-<div>
+
 🚀🚀🚀**For more detailed visual effects**, please refer to our website！
 > https://aughtty.github.io/vsrell-page/
 
