@@ -9,7 +9,8 @@
 
 🚀🚀🚀**For more detailed visual effects**, please refer to our website！
 > https://aughtty.github.io/vsrell-page/
-
+> Title--VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment**
+> The first CNN-based end-to-end framework to jointly solve Low-Light Enhancement (LLE) and Video Super-Resolution (VSR), breaking the multi-degradation coupling bottleneck in low-light video restoration with SOTA performance, lightweight design and strong temporal consistency.
 ## 📢 News
 - 📅 **[YYYY.MM.DD]** Version X.X Released
   - ✅ 更新项1
@@ -38,9 +39,6 @@
 - [ ] 🔁 迭代升级下一代模型版本
 - [ ] 🎬 拓展视频修复支持
 - [ ] 📊 开源全套绘图&可视化脚本 
-> Title--VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment**
-> The first CNN-based end-to-end framework to jointly solve Low-Light Enhancement (LLE) and Video Super-Resolution (VSR), breaking the multi-degradation coupling bottleneck in low-light video restoration with SOTA performance, lightweight design and strong temporal consistency.
-
 ### 🎯 Core Highlight
 Address the pain points of **error accumulation, parameter redundancy and poor temporal consistency** in traditional cascaded/all-in-one methods for low-light video restoration. We propose a novel integrated learning scheme that jointly models illumination enhancement and spatial-temporal super-resolution, realizing synchronous decoupling of low-light and low-resolution degradations to recover **Well-Illuminated High-Resolution (WIHR)** video sequences from **Low-Light Low-Resolution (LLLR)** inputs.
 
