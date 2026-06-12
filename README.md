@@ -1,5 +1,5 @@
 <div align="center">
-<img width="650" height="582" alt="image" src="https://github.com/user-attachments/assets/356434ed-bc8b-4217-b890-b3d45a119ef9" />
+<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/356434ed-bc8b-4217-b890-b3d45a119ef9" />
 <div>
 # 🚀🚀🚀VSRELL-CVPR2026 
 # For more detailed visual effects: https://aughtty.github.io/vsrell-page/
