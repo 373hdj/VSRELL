@@ -12,33 +12,23 @@
 > Title--VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment**
 > The first CNN-based end-to-end framework to jointly solve Low-Light Enhancement (LLE) and Video Super-Resolution (VSR), breaking the multi-degradation coupling bottleneck in low-light video restoration with SOTA performance, lightweight design and strong temporal consistency.
 ## 📢 News
-- 📅 **[YYYY.MM.DD]** Version X.X Released
-  - ✅ 更新项1
-  - ✅ 更新项2
-  - ✅ 更新项3
-
-- 📅 **[YYYY.MM.DD]** Major Update
-  - ✨ 新增功能A
-  - ⚡ 速度优化B
-  - 📦 新增预训练权重C
-
-- 📅 **[YYYY.MM.DD]** Initial Code Release
-  - 🚀 仓库正式开源
+- 📅 **[2026.6.2]** Version 1.0 Released
+   - ✨VSRELL has been accepted as the MAIN track by CVPR 2026
 ## 📋 TODO
 ### ⚡ Short-term Plans
-- [ ] 🛠️ 代码结构重构优化
-- [ ] 📝 补充完整FAQ文档
-- [ ] 🚀 支持ONNX模型导出
+- [ ] 🛠️ Refactor and optimize code structure
+- [ ] 📝 Complete FAQ documentation
+- [ ] 🚀 Add ONNX export support
 
 ### 🧩 Mid-term Plans
-- [ ] 📈 拓展更多下游恢复任务
-- [ ] 📱 推出轻量化小模型版本
-- [ ] 🖥️ Gradio网页在线Demo部署
+- [ ] 📈 Extend support for more downstream restoration tasks
+- [ ] 📱 Release lightweight small model variants
+- [ ] 🖥️ Deploy online Gradio demo
 
 ### 🌟 Long-term Plans
-- [ ] 🔁 迭代升级下一代模型版本
-- [ ] 🎬 拓展视频修复支持
-- [ ] 📊 开源全套绘图&可视化脚本 
+- [ ] 🔁 Iterate and upgrade to the next model version
+- [ ] 🎬 Extend support for video restoration
+- [ ] 📊 Open-source full plotting & visualization scripts
 ### 🎯 Core Highlight
 Address the pain points of **error accumulation, parameter redundancy and poor temporal consistency** in traditional cascaded/all-in-one methods for low-light video restoration. We propose a novel integrated learning scheme that jointly models illumination enhancement and spatial-temporal super-resolution, realizing synchronous decoupling of low-light and low-resolution degradations to recover **Well-Illuminated High-Resolution (WIHR)** video sequences from **Low-Light Low-Resolution (LLLR)** inputs.
 
