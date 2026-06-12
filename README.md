@@ -1,9 +1,8 @@
 <p align="center">
-<img width="650" height="582" alt="VSRELL效果图" src="https://github.com/user-attachments/assets/356434ed-bc8b-4217-b890-b3d45a119ef9" />
+<img width="350" height="282" alt="VSRELL效果图" src="https://github.com/user-attachments/assets/356434ed-bc8b-4217-b890-b3d45a119ef9" />
 </p>
 
-# 🚀🚀🚀VSRELL-CVPR2026 
-For more detailed visual effects: <a href="https://aughtty.github.io/vsrell-page/">https://aughtty.github.io/vsrell-page/</a></p>
+# 🚀🚀🚀VSRELL-CVPR2026 For more detailed visual effects: <a href="https://aughtty.github.io/vsrell-page/">https://aughtty.github.io/vsrell-page/</a></p>
 
 🚀🚀🚀CVPR 2026 | The First CNN-Based Method for Joint Low-Light Enhancement and Video Super-Resolution</p>
 
