@@ -38,7 +38,7 @@
 - [ ] 🔁 迭代升级下一代模型版本
 - [ ] 🎬 拓展视频修复支持
 - [ ] 📊 开源全套绘图&可视化脚本 
-**  Title--VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment**
+> Title--VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment**
 > The first CNN-based end-to-end framework to jointly solve Low-Light Enhancement (LLE) and Video Super-Resolution (VSR), breaking the multi-degradation coupling bottleneck in low-light video restoration with SOTA performance, lightweight design and strong temporal consistency.
 
 ### 🎯 Core Highlight
