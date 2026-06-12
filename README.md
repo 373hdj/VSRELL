@@ -1,5 +1,5 @@
 # 🚀🚀🚀VSRELL-CVPR2026 
-> For more detailed visual effects: https://aughtty.github.io/vsrell-page/
+For more detailed visual effects: https://aughtty.github.io/vsrell-page/
 
 🚀🚀🚀CVPR 2026 | The First CNN-Based Method for Joint Low-Light Enhancement and Video Super-Resolution
 
