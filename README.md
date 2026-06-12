@@ -12,8 +12,10 @@
 > Title--VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment**
 > The first CNN-based end-to-end framework to jointly solve Low-Light Enhancement (LLE) and Video Super-Resolution (VSR), breaking the multi-degradation coupling bottleneck in low-light video restoration with SOTA performance, lightweight design and strong temporal consistency.
 ## 📢 News
+- 📅 **[2026.5]** Version 1.0 Released
+   - ✨Visual webpage officially launched！
 - 📅 **[2026.6.2]** Version 1.0 Released
-   - ✨VSRELL has been accepted as the MAIN track by CVPR 2026
+   - ✨VSRELL has been accepted as the MAIN track by CVPR 2026!
 ## 📋 TODO
 ### ⚡ Short-term Plans
 - [ ] 🛠️ Refactor and optimize code structure
