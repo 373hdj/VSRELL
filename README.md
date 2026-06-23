@@ -66,12 +66,7 @@ Yanming Hui¹,², **Fanhua Shang¹,²\***, **Hongying Liu²,⁴\***, Ben Wang¹,
 
 ### 📑 Citation
 ```bibtex
-@inproceedings{hui2026vsrell,
-  title={VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment},
-  author={Hui, Yanming and Shang, Fanhua and Liu, Hongying and Wang, Ben and Zhang, Zhenwei and Wan, Liang and Feng, Wei and Xue, Tong and Lv, Bingqin},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2026}
-}
+Hui, Yanming, et al. "VSRELL: A Simple Baseline for Video Super-Resolution and Enhancement in Low-Light Environment." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026.
 ```
 
 ### 📧 Contact
